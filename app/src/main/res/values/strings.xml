@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Restaurant Indian Palace</string>
+    <string name="register">Register your account to get 5% discount</string>
+    <string name="drinks">Drinks</string>
+    <string name="desserts">Deserts</string>
+    <string name="main_course">Main courses</string>
+    <string name="order_overview">Order overview</string>
+    <string name="nav_open">Drawer Open</string>
+    <string name="nav_close">Drawer Closed</string>
+    <string name="user_name">Guest</string>
+    <string name="welcome">Welcome in Indian Palace</string>
+    <string name="cocktail_choice">Check if your favorite cocktail is in offer /80 kr</string>
+
+</resources>
+
